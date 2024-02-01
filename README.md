@@ -9,12 +9,12 @@ front-end!
 
 # Agradecimentos!😊
 
-## CursoEmVideo: 
+CursoEmVideo: 
 <br />
 https://youtube.com/CursoEmVideo
 https://cursoemvideo.com
 <br />
-## FreeCodeCamp:
+FreeCodeCamp:
 <br />
 https://freecodecamp.com
 <br />
