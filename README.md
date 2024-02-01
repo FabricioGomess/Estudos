@@ -6,9 +6,9 @@ estudos com o objetivo de se tornar um dev front-end!
 
 # Agradecimentos!😊
 
--CursoEmVideo:
-https://youtube.com/CursoEmVideo
+-CursoEmVideo: 
 <br />
+https://youtube.com/CursoEmVideo
 https://cursoemvideo.com
 <br />
 -FreeCodeCamp:
