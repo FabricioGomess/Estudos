@@ -5,5 +5,5 @@ estudos com o objetivo de se tornar um dev front-end!
 
 Agradecimentos!:
 
-#CursoEmVideo
+# CursoEmVideo
 https://youtube.com/CursoEmVideo
