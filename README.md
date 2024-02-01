@@ -11,6 +11,7 @@ estudos com o objetivo de se tornar um dev front-end!
 https://youtube.com/CursoEmVideo
 https://cursoemvideo.com
 <br />
+<hr />
 ## FreeCodeCamp:
 <br />
 https://freecodecamp.com
