@@ -9,7 +9,7 @@ front-end!
 
 # Agradecimentos!😊
 
-<strong>CursoEmVideo</strong>
+<strong>CursoEmVideo:</strong>
 <br />
 https://youtube.com/CursoEmVideo
 https://cursoemvideo.com
