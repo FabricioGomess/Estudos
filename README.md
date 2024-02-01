@@ -1,8 +1,11 @@
 # Estudos
 
-Repositório contendo todos os arquivos(Práticas e 
-Exercícios propostos) ao longo da minha jornada de 
-estudos com o objetivo de se tornar um dev front-end!
+Repositório contendo todos os arquivos(Práticas
+e 
+Exercícios propostos) ao longo da minha jornada 
+de 
+estudos com o objetivo de se tornar um dev 
+front-end!
 
 # Agradecimentos!😊
 
@@ -11,7 +14,7 @@ estudos com o objetivo de se tornar um dev front-end!
 https://youtube.com/CursoEmVideo
 https://cursoemvideo.com
 <br />
-<hr />
 ## FreeCodeCamp:
 <br />
 https://freecodecamp.com
+<br />
