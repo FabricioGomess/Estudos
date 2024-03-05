@@ -9,7 +9,7 @@ h1 {
 }
 
 #videos {
-  display: table-cell;
+  display: block;
 }
 
 .cursocompleto {
