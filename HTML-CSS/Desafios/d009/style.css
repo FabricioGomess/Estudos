@@ -8,6 +8,10 @@ h1 {
   margin-bottom: 7px;
 }
 
+#videos {
+  display: table-cell;
+}
+
 .cursocompleto {
   display: block;
   margin: 10px;
